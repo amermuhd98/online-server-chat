@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "488585187672",
+    "project_id": "groub-chat-98069",
+    "storage_bucket": "groub-chat-98069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488585187672:android:b1fbf788446c807362552d",
+        "android_client_info": {
+          "package_name": "com.example.test_proje.host"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488585187672-v7l75ev4fmp5dq768sqh0hpd2jjsseiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGeSWGvHj0FZjPvAp79Nq1_TRCET-f1nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488585187672-v7l75ev4fmp5dq768sqh0hpd2jjsseiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488585187672:android:9bfc5de1e26f56c762552d",
+        "android_client_info": {
+          "package_name": "online.amer.aplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488585187672-v7l75ev4fmp5dq768sqh0hpd2jjsseiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGeSWGvHj0FZjPvAp79Nq1_TRCET-f1nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488585187672-v7l75ev4fmp5dq768sqh0hpd2jjsseiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
